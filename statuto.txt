@@ -1,11 +1,3 @@
-Da: Daniele Iamartino <danieleiamartino@gmail.com>
-Data: 30 marzo 2011 18.59.00 GMT+02.00
-A: sim@me.com
-Oggetto: Roba POuL
-
-Statuto Associazione Culturale POuL – Politecnico Open unix Labs
-
- 
 Art. 1 - Denominazione, sede e definizioni
 È costituita l'associazione culturale studentesca “POuL” - “Politecnico Open unix Labs” (entrambe le diciture sono valide e alternative), d'ora in avanti per brevità “l'Associazione”.
 La sede dell'Associazione è sita nel polo di Milano Leonardo del Politecnico di Milano.
