@@ -1,0 +1,163 @@
+Da: Daniele Iamartino <danieleiamartino@gmail.com>
+Data: 30 marzo 2011 18.59.00 GMT+02.00
+A: sim@me.com
+Oggetto: Roba POuL
+
+Statuto Associazione Culturale POuL – Politecnico Open unix Labs
+
+ 
+Art. 1 - Denominazione, sede e definizioni
+È costituita l'associazione culturale studentesca “POuL” - “Politecnico Open unix Labs” (entrambe le diciture sono valide e alternative), d'ora in avanti per brevità “l'Associazione”.
+La sede dell'Associazione è sita nel polo di Milano Leonardo del Politecnico di Milano.
+ E' definita "Giornata di Redazione", d'ora in avanti GDR, l'attività a cadenza settimanale organizzata dai Soci del POuL al fine di coordinare attivita' e contenuti dell'associazione.
+ Gigi è dittatore a vita.
+ 
+Art. 2 - Scopo
+L'Associazione ha per obiettivo:
+-       contribuire alla promozione e allo sviluppo del software Open Source, del Free Software e dei formati aperti;
+-        favorire l'uso di applicazioni Open Source e Free Software in alternativa a quelle proprietarie;
+-        organizzare laboratori, stage, gruppi di ricerca e di studio sulle tematiche del software Open Source, del Free Software e dei formati aperti;
+-       pubblicare e diffondere materiale informativo, didattico, critico e saggistico;
+-       organizzare e partecipare a conferenze, seminari e manifestazioni, per la promozione dei principi dell'Associazione e come invito all'elaborazione di idee innovative;
+-       aprire forme di collaborazione con altri enti, associazioni o realtà istituzionali per portare avanti i propri principi;
+-       promuovere in generale una cultura improntata all'esperienza diretta, alla libera circolazione delle informazioni, al rifiuto dell'autoritarismo, alla promozione del merito e al rifiuto di restrizioni di razza, colore, sesso, religione, estrazione sociale.
+ 
+Art. 3 – Durata
+La durata dell'Associazione è illimitata; l'Associazione potrà essere sciolta con delibera dell'Assemblea dei soci.
+ 
+Art. 4 - Domanda di ammissione
+E' costituito il Registro Unico dei Membri (RUM) composto delle seguenti sezioni
+        -    Soci con Diritto di Voto
+        -    Soci Ordinari
+        -    Soci Onorari
+Possono far parte dell'Associazione, in qualità di Soci Ordinari, le persone che ne facciano richiesta all'assemblea dei soci e che soddisfino i requisiti espressi all'articolo 5ter..
+Possono far parte dell'Associazione in qualità di Soci con Diritto di Voto, i Soci Ordinari che ne facciano richiesta all'Assemblea dei Soci, se in possesso di adeguati requisiti espressi nell'articolo 5quater
+
+Art 5ter - Requisiti dei soci ordinari
+ -    Essere studente del Politecnico di Milano.
+ -    Aver approvato lo statuto e lo scopo dell''Associazione.
+ 
+Art 5quater - Requisiti dei soci con Diritto di Voto
+-    Essere soci dell'Associazione.
+-    Aver partecipato ad almeno 4 GDR.
+
+Art. 5 - Diritti dei soci ordinari
+I Soci ordinari hanno:
+-    Diritto di espressione nell'Assembea dei Soci.
+-    Diritto alla frequenza degli spazi eventualmente assegnati all'Associzione.
+
+Art 5bis - Diritti dei Soci con Diritto di Voto
+I Soci con Diritto di Voto hanno:
+-    I Diritti espressi nell'articolo 5.
+-    Diritto di voto all'Assemblea dei Soci.
+
+
+
+Art. 6 – Doveri dei soci ordinari
+Tutti i Soci sono tenuti a rispettare le norme del presente Statuto e le norme etiche di cui l'Associazione si fa promotrice, secondo le deliberazioni assunte dagli organi preposti.
+In caso di comportamento difforme, che rechi pregiudizio agli scopi o al patrimonio dell'associazione o che sia lesivo della dignità personale, il Consiglio Direttivo dovrà intervenire ed applicare le seguenti sanzioni: richiamo, radiazione dall'Associazione.
+
+Art. 6bis - Doveri dei soci votanti
+Il socio con diritto di voto ha gli stessi obblighi del socio ordinario. Inoltre, il socio deve partecipare con profitto alle GDR.
+
+Art. 7 - Decadenza dei soci ordinari
+I Soci cessano di appartenere all'Associazione nei seguenti casi:
+-    dimissione volontaria.
+-    decadenza dei requisiti sopra citati.
+-    radiazione deliberata dal Consiglio Direttivo (in caso di grave violazione dello statuto).
+Il Socio radiato non può essere riammesso nell'Associazione senza l'approvazione unanime del Consiglio Direttivo.
+
+Art. 7bis Decadenza dei soci votanti
+-    decadenza da socio ordinario.
+-    dopo 4 assenze consecutive alle GDR. In questo caso può riacquistare il suo status alla prima GDR a cui partecipa dopo la sua decadenza.
+
+
+Art. 9 - Organi
+Gli organi sociali sono:
+-    l'Assemblea dei Soci
+-    il Consiglio Direttivo
+ 
+Art. 10 – Assemblea dei Soci
+L'Assemblea dei Soci è composta da tutti i soci, solo i Soci con Diritto di Voto possono prendere parte alle votazioni. Essa è convocata, con delibera del Consiglio Direttivo, almeno una volta all'anno in via ordinaria, ed in via straordinaria quando sia necessaria o sia richiesta dal Consiglio Direttivo. 
+La convocazione va fatta almeno 3 giorni prima della data dell'assemblea, mediante notifica sulla mailing list ufficiale dell'Associazione e va preceduta dalla preconvocazione, che consiste nella possibilità dei soci di contribuire alla scelta del giorno in cui va effettuata l'assemblea attraverso mezzi informatici. La preconvocazione va fatta almeno 5 giorni prima della convocazione.
+Inoltre l'assemblea può essere convocata dalla maggioranza assoluta dei soci con Diritto di Voto previa raccolta firme.
+Delle delibere assembleari deve essere redatto il relativo verbale.
+ 
+Art. 11 - Compiti dell'assemblea
+L'Assemblea deve essere convocata almeno una volta all'anno per:
+-        deliberare la programmazione dell'attività futura;
+-        deliberare in merito alle eventuali modifiche dello Statuto;
+-        eleggere il Consiglio Direttivo;
+-        deliberare in merito al rapporto con altre associazioni e organi istituzionali;
+-        approvare il bilancio preventivo e consuntivo.
+ 
+All'apertura di ogni seduta l'assemblea elegge un Presidente ed un Segretario che dovranno sottoscrivere il verbale finale.
+ 
+Art. 12 - Validità assembleare
+L'Assemblea è validamente costituita in prima convocazione con la presenza della maggioranza assoluta del Consiglio Direttivo e delibera validamente con voto favorevole della maggioranza dei Soci con Diritto di Voto presenti; in caso di parità prevale il voto del Presidente.
+Ogni socio con Diritto di Voto può, nel periodo compreso tra la convocazione dell'Assemblea e l'Assemblea stessa, delegare a una sola persona l'espressione del suo voto, o proporre il suo voto nella mailing list ufficiale.
+Il Consiglio Direttivo può eventualmente decidere la ridiscussione di una delibera a seguito di un significativo numero di pareri contrastanti adeguatamente motivati.
+ 
+Art. 13 - Consiglio Direttivo
+Il Consiglio Direttivo è composto da tre consiglieri eletti dall'Assemblea dei Soci: il Presidente, il Vicepresidente ed il Segretario.
+Tutti gli incarichi sociali si intendono esclusivamente a titolo gratuito.
+Il Consiglio Direttivo rimane in carica 1 (un) anno ed i suoi componenti sono rieleggibili.
+Le delibere verranno adottate a maggioranza. In caso di parità prevarrà il voto del Presidente.
+ 
+Art. 14 - Dimissioni
+Nel caso in cui, per qualsiasi ragione, durante il corso dell'esercizio venissero a mancare uno o più Consiglieri, i rimanenti provvederanno alla convocazione dell'Assemblea dei soci per surrogare i mancanti.
+I nuovi Consiglieri rimarranno in carica fino alla naturale scadenza del Consiglio Direttivo.
+Il Consiglio Direttivo dovrà considerarsi sciolto e non più in carica qualora, per dimissioni o per qualsiasi altra causa, venga a perdere la maggioranza dei suoi componenti. 
+[Il Consiglio Direttivo è da considerarsi sciolto e non più in carica in caso di Votazione di Sfiducia da parte dei Soci Votanti con un quorum del 50% più uno.]
+In caso di scioglimento del Consiglio Direttivo l'Assemblea dei Soci viene automaticamente convocata (entro breve tempo) con il compito di eleggere i nuovi Consiglieri.
+ 
+Art. 15 - Convocazione del Consiglio Direttivo
+Il Consiglio Direttivo si riunisce ogni volta che il Presidente lo ritenga necessario, oppure che ne sia fatta richiesta da almeno due Consiglieri.
+ 
+Art. 16 - Compiti del Consiglio Direttivo
+Sono compiti del Consiglio Direttivo:
+-        fissare le date delle Assemblee dei soci da indire almeno una volta all'anno;
+-        dare attuazione alle decisioni dell'Assemblea dei Soci;
+-        rappresentare l'Associazione nei rapporti con enti esterni (salvo deleghe presentate ed approvate preventivamente);
+-        elaborare il bilancio preventivo e consuntivo;
+-        farsi carico delle procedure di richiamo e radiazione dei soci.
+ 
+Art. 17 - Il Presidente
+Convoca e presiede il Consiglio Direttivo, sottoscrive tutti gli atti amministrativi compiuti dall'Associazione.
+Dura in carica 1 (un) anno.
+ 
+Art. 18 - Il Vicepresidente
+Il Vicepresidente sostituisce il Presidente in caso di sua assenza o impedimento temporaneo ed in quelle mansioni nelle quali venga espressamente delegato.
+ 
+Art. 19 - Il Segretario
+Il Segretario:
+-        redige i verbali delle riunioni o ne incarica un socio tramite delega diretta;
+-        aggiorna e custodisce il registro Unico dei Membri(RUM);
+-        attende alla corrispondenza;
+-        si occupa delle ulteriori formalità previste per legge.
+ 
+Come Tesoriere:
+-        cura l'amministrazione dell'Associazione;
+-        si incarica della tenuta di eventuali libri contabili;
+-        riscuote ed effettua pagamenti previo mandato del Consiglio Direttivo;
+-        verifica la corretta gestione sul piano economico-finanziario e controlla le operazioni contabili intraprese dall'Associazione.
+ 
+Art. 20 – Patrimonio
+Le risorse economiche dell'associazione sono costituite da:
+-        finanziamenti ottenuti dall'ateneo;
+-        donazioni;
+-        autofinanziamenti.
+ 
+L'Associazione non ha scopo di lucro. Durante la vita dell'Associazione non potranno essere distribuiti, anche in modo indiretto, avanzi di gestione, nonché fondi, riserve o capitale.
+ 
+Art. 21 - Scioglimento
+Lo scioglimento dell'Associazione è deliberato in prima istanza dall'Assemblea dei Soci con l'approvazione di almeno 4/5 dei soci.
+L'Assemblea, all'atto di scioglimento dell'Associazione, delibererà in merito alla destinazione dell'eventuale residuo attivo del patrimonio dell'Associazione.
+
+Art. 22 - Norme Finali
+Per tutto quanto non espressamente previsto dal presente Statuto valgono le norme di ateneo del Politecnico di Milano.
+ 
+ 
+Letto, approvato e sottoscritto a Milano in data TODO
+ 
+
