@@ -1,4 +1,2 @@
-Questo e' lo statuto del POuL
-
-TODO:
+# Questo e' lo statuto del POuL
 
