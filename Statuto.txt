@@ -131,11 +131,12 @@ soci a maggioranza semplice previa proposta motivata del consiglio
 direttivo.
 Il Socio escluso non può essere riammesso nell'Associazione senza 
 l'approvazione del Consiglio Direttivo. Dopo un periodo di tempo 
-superiore o uguale ad 1 (un) anno di assenza dall'ultima 
-riunione, un Socio con Diritto di Voto, perde il diritto di voto 
-tornando ad essere Socio Ordinario. Il Socio precedentemente 
-privato del diritto di voto, può riacquisirlo ad una riunione 
-successiva, previa votazione dell'assemblea costituita.
+superiore o uguale ad 1 (un) anno di assenza, senza giustificato 
+motivo, dall'ultima riunione, un Socio con Diritto di Voto, 
+perde il diritto di voto tornando ad essere Socio Ordinario. 
+Il Socio precedentemente privato del diritto di voto, può 
+riacquisirlo ad una riunione successiva, previa votazione 
+dell'assemblea costituita.
 
   Art. 8 - Bilancio
 
