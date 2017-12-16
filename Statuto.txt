@@ -120,19 +120,23 @@ sarà tenuto al risarcimento.
 
 I Soci cessano di appartenere all'Associazione nei seguenti casi:
 
-• dimissione volontaria;
+• dimissione volontaria
 
-• esclusione deliberata dal Consiglio Direttivo.
+• esclusione deliberata tramite voto
 
 • perdità dei requisiti
 
+L'esclusione dei soci è deliberata validamente dall'assemblea dei 
+soci a maggioranza semplice previa proposta motivata del consiglio 
+direttivo.
 Il Socio escluso non può essere riammesso nell'Associazione senza 
 l'approvazione del Consiglio Direttivo. Dopo un periodo di tempo 
-superiore o uguale ad 1 (un) anno di assenza dall'ultima 
-riunione, un Socio con Diritto di Voto, perde il diritto di voto 
-tornando ad essere Socio Ordinario. Il Socio precedentemente 
-privato del diritto di voto, può riacquisirlo ad una riunione 
-successiva, previa votazione dell'assemblea costituita.
+superiore o uguale ad 1 (un) anno di assenza, senza giustificato 
+motivo, dall'ultima riunione, un Socio con Diritto di Voto, 
+perde il diritto di voto tornando ad essere Socio Ordinario. 
+Il Socio precedentemente privato del diritto di voto, può 
+riacquisirlo ad una riunione successiva, previa votazione 
+dell'assemblea costituita.
 
   Art. 8 - Bilancio
 
@@ -158,7 +162,8 @@ Gli organi sociali sono:
 
   Art. 10 - Assemblea 
 
-L'Assemblea dei Soci è composta da tutti e soli i soci. Essa è 
+L'assemblea dei soci è composta indistintamente da tutti i soci. 
+Possono votare validamente solo i soci con diritto di voto. Essa è 
 convocata, con delibera del Consiglio Direttivo, almeno una volta 
 all'anno in via ordinaria, e quando sia necessaria o sia 
 richiesta dal Consiglio Direttivo. La convocazione va fatta 
@@ -188,11 +193,11 @@ L'Assemblea deve essere convocata almeno una volta all'anno per:
 
   Art. 12 - Validità assembleare 
 
-L'Assemblea è validamente costituita in prima convocazione con la 
-presenza della maggioranza assoluta del Consiglio Direttivo (in 
-presenza fisica) e delibera validamente con voto favorevole della 
-maggioranza dei Soci con Diritto di Voto presenti. Ogni socio con 
-Diritto di Voto può, nel periodo compreso tra la convocazione 
+L'assemblea è validamente costituita con la presenza di almeno 
+un terzo dei soci aventi diritto al voto  (compresi eventualmente 
+i membri del consiglio direttivo) e delibera validamente con voto 
+favorevole della  maggioranza dei Soci con Diritto di Voto presenti. 
+Ogni socio con Diritto di Voto può, nel periodo compreso tra la convocazione 
 dell'Assemblea e l'Assemblea stessa, delegare a una sola persona 
 l'espressione del suo voto, o proporre il suo voto nella mailing 
 list ufficiale. I soci in telepresenza hanno gli stessi diritti 
@@ -224,6 +229,12 @@ Milano. Tutti gli incarichi sociali si intendono esclusivamente a
 titolo gratuito. Il Consiglio Direttivo rimane in carica massimo 
 1 (un) anno ed i suoi componenti sono rieleggibili. Le proposte 
 in votazione verranno adottate a maggioranza.
+I membri del consiglio direttivo possono essere revocati dall'incarico 
+qualora non partecipino attivamente alle funzioni ad esse assegnate. 
+La proposta di revoca, formulata da almeno un componente del consiglio 
+stesso o da almeno cinque soci con diritto di voto dell'assemblea, verrà
+sottoposta all'assemblea dei soci che deciderà a maggioranza semplice.
+
 
   Art. 14 - Dimissioni 
 
@@ -316,9 +327,9 @@ indiretto, avanzi di gestione, nonché fondi, riserve o capitale.
 
   Art. 21 - Scioglimento
 
-Lo scioglimento dell'Associazione è deliberato in prima istanza 
+Lo scioglimento dell'Associazione è deliberato in prima seduta 
 dall'Assemblea dei Soci con l'approvazione di almeno 4/5 dei 
-Soci. L'Assemblea, all'atto di scioglimento dell'Associazione, 
+Soci presenti. L'Assemblea, all'atto di scioglimento dell'Associazione, 
 restituirà tutti i beni ricevuti dal Politecnico di Milano e 
 delibererà in merito alla destinazione del rimanente eventuale 
 residuo attivo del patrimonio dell'Associazione.
